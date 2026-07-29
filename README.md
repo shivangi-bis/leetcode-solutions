@@ -11,4 +11,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shivangi-bis/leetcode-solutions/tree/master/0001-two-sum) |
+## Math
+|  |
+| ------- |
+| [0171-excel-sheet-column-number](https://github.com/shivangi-bis/leetcode-solutions/tree/master/0171-excel-sheet-column-number) |
+## String
+|  |
+| ------- |
+| [0171-excel-sheet-column-number](https://github.com/shivangi-bis/leetcode-solutions/tree/master/0171-excel-sheet-column-number) |
 <!---LeetCode Topics End-->
