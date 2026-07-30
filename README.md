@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/shivangi-bis/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0043-multiply-strings](https://github.com/shivangi-bis/leetcode-solutions/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/shivangi-bis/leetcode-solutions/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/shivangi-bis/leetcode-solutions/tree/master/0050-powx-n) |
 | [0171-excel-sheet-column-number](https://github.com/shivangi-bis/leetcode-solutions/tree/master/0171-excel-sheet-column-number) |
 ## String
 |  |
@@ -123,4 +124,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/shivangi-bis/leetcode-solutions/tree/master/0043-multiply-strings) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/shivangi-bis/leetcode-solutions/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
