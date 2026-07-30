@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/shivangi-bis/leetcode-solutions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/shivangi-bis/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/shivangi-bis/leetcode-solutions/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/shivangi-bis/leetcode-solutions/tree/master/0018-4sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/shivangi-bis/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/shivangi-bis/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/shivangi-bis/leetcode-solutions/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/shivangi-bis/leetcode-solutions/tree/master/0018-4sum) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/shivangi-bis/leetcode-solutions/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/shivangi-bis/leetcode-solutions/tree/master/0018-4sum) |
 ## Backtracking
 |  |
 | ------- |
