@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/shivangi-bis/leetcode-solutions/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/shivangi-bis/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/shivangi-bis/leetcode-solutions/tree/master/0050-powx-n) |
+| [0067-add-binary](https://github.com/shivangi-bis/leetcode-solutions/tree/master/0067-add-binary) |
 | [0171-excel-sheet-column-number](https://github.com/shivangi-bis/leetcode-solutions/tree/master/0171-excel-sheet-column-number) |
 ## String
 |  |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/shivangi-bis/leetcode-solutions/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/shivangi-bis/leetcode-solutions/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/shivangi-bis/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/shivangi-bis/leetcode-solutions/tree/master/0067-add-binary) |
 | [0171-excel-sheet-column-number](https://github.com/shivangi-bis/leetcode-solutions/tree/master/0171-excel-sheet-column-number) |
 ## Sliding Window
 |  |
@@ -124,8 +126,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/shivangi-bis/leetcode-solutions/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/shivangi-bis/leetcode-solutions/tree/master/0067-add-binary) |
 ## Recursion
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/shivangi-bis/leetcode-solutions/tree/master/0050-powx-n) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/shivangi-bis/leetcode-solutions/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
