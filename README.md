@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/shivangi-bis/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/shivangi-bis/leetcode-solutions/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/shivangi-bis/leetcode-solutions/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/shivangi-bis/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0171-excel-sheet-column-number](https://github.com/shivangi-bis/leetcode-solutions/tree/master/0171-excel-sheet-column-number) |
 ## String
 |  |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/shivangi-bis/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/shivangi-bis/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0069-sqrtx](https://github.com/shivangi-bis/leetcode-solutions/tree/master/0069-sqrtx) |
 ## Matrix
 |  |
 | ------- |
