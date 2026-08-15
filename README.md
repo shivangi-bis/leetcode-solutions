@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/shivangi-bis/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/shivangi-bis/leetcode-solutions/tree/master/0067-add-binary) |
 | [0171-excel-sheet-column-number](https://github.com/shivangi-bis/leetcode-solutions/tree/master/0171-excel-sheet-column-number) |
+| [0344-reverse-string](https://github.com/shivangi-bis/leetcode-solutions/tree/master/0344-reverse-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/shivangi-bis/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/shivangi-bis/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/shivangi-bis/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0344-reverse-string](https://github.com/shivangi-bis/leetcode-solutions/tree/master/0344-reverse-string) |
 ## Dynamic Programming
 |  |
 | ------- |
