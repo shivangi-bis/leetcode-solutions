@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/shivangi-bis/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0541-reverse-string-ii](https://github.com/shivangi-bis/leetcode-solutions/tree/master/0541-reverse-string-ii) |
 | [0917-reverse-only-letters](https://github.com/shivangi-bis/leetcode-solutions/tree/master/0917-reverse-only-letters) |
+| [3794-reverse-string-prefix](https://github.com/shivangi-bis/leetcode-solutions/tree/master/3794-reverse-string-prefix) |
 ## Sliding Window
 |  |
 | ------- |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/shivangi-bis/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0541-reverse-string-ii](https://github.com/shivangi-bis/leetcode-solutions/tree/master/0541-reverse-string-ii) |
 | [0917-reverse-only-letters](https://github.com/shivangi-bis/leetcode-solutions/tree/master/0917-reverse-only-letters) |
+| [3794-reverse-string-prefix](https://github.com/shivangi-bis/leetcode-solutions/tree/master/3794-reverse-string-prefix) |
 ## Dynamic Programming
 |  |
 | ------- |
